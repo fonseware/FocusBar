@@ -37,7 +37,8 @@ this file shows the entire roadmap of the program. have a suggestion enter them 
 - [ ] reset settings to defaults
 ### others
 - [ ] force close program (revert changes and close)
-- [ ] help section 
+- [ ] help section
+- [ ] complete github wikia
 - [ ] check for updates
 - [ ] finalise, proofread program
 - [ ] check for bugs
