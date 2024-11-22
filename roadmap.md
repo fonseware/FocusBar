@@ -4,8 +4,6 @@
 > beta versions or any testing versions are not yet implemented.
 
 this file shows the entire roadmap of the program. have a suggestion enter them on the issues section. 
-> project created on october 31st of 2024, 1.15pm | gmt 05.30
-> although this program has no certain deadline, this project may finish by late 2025.
 
 - [x] create a user interface
 - [x] enable to hide task bar and appear when start is pressed
@@ -44,3 +42,7 @@ this file shows the entire roadmap of the program. have a suggestion enter them 
 - [ ] finalise, proofread program
 - [ ] check for bugs
 - [ ] release update.
+
+> project created on october 31st of 2024, 1.15pm | gmt 05.30
+> 
+> although this program has no certain deadline, this project may finish by late 2025.
