@@ -1,7 +1,7 @@
-# **focusbar roadmap for ```version 1```**
+# **focusbar release roadmap for ```version 1```**
 > [!note]
 > current development version ```.1 alpha```
-> beta versions or any testing versions are not yet implemented.
+> beta versions or any testing versions are not yet implemented. features mentioned on this roadmap may differ from the actual product.
 
 this file shows the entire roadmap of the program. have a suggestion enter them on the issues section. 
 
@@ -17,6 +17,7 @@ this file shows the entire roadmap of the program. have a suggestion enter them 
   - [ ] middle wheel/touchpad scroll down (are they needed?)
 > [!note]
 >  that i cannot implement the multi finger functions for touchpad users as it would obstruct the touchpad gesture settings in windows.
+  - [ ] windows 8.1 charms and corners
   - [ ] adjust corner sizes
   - [ ] adjust edge sizes
   - [ ] play audio cues
@@ -47,3 +48,6 @@ this file shows the entire roadmap of the program. have a suggestion enter them 
 > project created on october 31st of 2024, 1.15pm | gmt 05.30
 > 
 > although this program has no certain deadline, this project may finish by late 2025.
+
+
+- this project is supported for 10 years from release [pending time]
