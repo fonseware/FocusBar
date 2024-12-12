@@ -3,7 +3,7 @@
 > current development version ```.1 alpha```.
 > beta versions or any testing versions are not yet released. features mentioned on this roadmap may differ from the actual product.
 
-this file shows the entire roadmap of the program. have a suggestion enter them on the issues section. 
+this file shows the entire roadmap of the program. if you have a suggestion enter them on the issues section. 
 
 - [x] create a user interface
 - [x] enable to hide task bar and appear when start is pressed
