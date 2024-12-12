@@ -1,7 +1,7 @@
 # **focusbar release roadmap for ```version 1```**
 > [!note]
-> current development version ```.1 alpha```
-> beta versions or any testing versions are not yet implemented. features mentioned on this roadmap may differ from the actual product.
+> current development version ```.1 alpha```.
+> beta versions or any testing versions are not yet released. features mentioned on this roadmap may differ from the actual product.
 
 this file shows the entire roadmap of the program. have a suggestion enter them on the issues section. 
 
